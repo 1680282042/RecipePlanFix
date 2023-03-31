@@ -1,0 +1,14 @@
+[
+    {
+        "modid": "crashdive_recipe_plan_fix",
+        "name": "Recipe Plan Fix",
+        "version": "0.1.0",
+        "description": "Bypasses the need for a project bench to program a recipe plan",
+        "dependencies": [
+            "spongeapi@7.2.0"
+        ],
+        "requiredMods": [
+            "spongeapi@7.2.0"
+        ]
+    }
+]
